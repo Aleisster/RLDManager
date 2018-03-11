@@ -188,7 +188,7 @@ namespace RLDManager
         }
         public void XOR(ref byte[] Content) {
             //uint Key = 0x39AA8BA0; //Princess Evangile
-            uint Key = 0xAD2B78EA; //Sakura no Mori Dreamers
+            uint Key = 0xAD2B78EA; //Sakura no Mori Dreamers2
             //uint Key = 0xAD2B78EA; //Sakura no Mori Dreamers
 
             uint BlockCount = (uint)Content.Length;
